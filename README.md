@@ -27,11 +27,13 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushdub3y/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +47,8 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushdub3y/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
