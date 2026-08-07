@@ -19,6 +19,7 @@ Daily DSA pratice on leetcode problems
 | [0136-single-number](https://github.com/ayushdub3y/dsa-daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
@@ -52,8 +53,13 @@ Daily DSA pratice on leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushdub3y/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
