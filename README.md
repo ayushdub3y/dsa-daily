@@ -15,6 +15,7 @@ Daily DSA pratice on leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/ayushdub3y/dsa-daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
@@ -49,6 +50,7 @@ Daily DSA pratice on leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushdub3y/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Dynamic Programming
 |  |
