@@ -20,11 +20,13 @@ Daily DSA pratice on leetcode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
