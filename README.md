@@ -21,12 +21,14 @@ Daily DSA pratice on leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
@@ -56,6 +58,7 @@ Daily DSA pratice on leetcode problems
 | [0001-two-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushdub3y/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
