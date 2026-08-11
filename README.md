@@ -70,6 +70,7 @@ Daily DSA pratice on leetcode problems
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/ayushdub3y/dsa-daily/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/ayushdub3y/dsa-daily/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushdub3y/dsa-daily/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
