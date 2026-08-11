@@ -67,4 +67,8 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ayushdub3y/dsa-daily/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
