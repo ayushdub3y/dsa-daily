@@ -16,6 +16,7 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/ayushdub3y/dsa-daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
@@ -33,6 +34,7 @@ Daily DSA pratice on leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
@@ -74,4 +76,8 @@ Daily DSA pratice on leetcode problems
 | [0595-big-countries](https://github.com/ayushdub3y/dsa-daily/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/ayushdub3y/dsa-daily/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushdub3y/dsa-daily/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
