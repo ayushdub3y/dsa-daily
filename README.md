@@ -17,6 +17,7 @@ Daily DSA pratice on leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ayushdub3y/dsa-daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -36,6 +37,7 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +68,7 @@ Daily DSA pratice on leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -91,4 +94,12 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
