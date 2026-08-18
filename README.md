@@ -17,6 +17,7 @@ Daily DSA pratice on leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ayushdub3y/dsa-daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
@@ -35,6 +36,7 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
@@ -68,6 +70,7 @@ Daily DSA pratice on leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
@@ -80,4 +83,12 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
