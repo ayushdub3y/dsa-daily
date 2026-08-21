@@ -42,6 +42,7 @@ Daily DSA pratice on leetcode problems
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Daily DSA pratice on leetcode problems
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushdub3y/dsa-daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Daily DSA pratice on leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushdub3y/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushdub3y/dsa-daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +71,7 @@ Daily DSA pratice on leetcode problems
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushdub3y/dsa-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
