@@ -26,6 +26,7 @@ Daily DSA pratice on leetcode problems
 | [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/ayushdub3y/dsa-daily/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Daily DSA pratice on leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushdub3y/dsa-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/ayushdub3y/dsa-daily/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Daily DSA pratice on leetcode problems
 | [0424-longest-repeating-character-replacement](https://github.com/ayushdub3y/dsa-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/ayushdub3y/dsa-daily/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
 | ------- |
