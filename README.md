@@ -28,6 +28,7 @@ Daily DSA pratice on leetcode problems
 | [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/ayushdub3y/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ayushdub3y/dsa-daily/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
@@ -62,6 +63,7 @@ Daily DSA pratice on leetcode problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushdub3y/dsa-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/ayushdub3y/dsa-daily/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
