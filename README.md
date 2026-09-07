@@ -6,6 +6,7 @@ Daily DSA pratice on leetcode problems
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushdub3y/dsa-daily/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/ayushdub3y/dsa-daily/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -60,6 +61,7 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushdub3y/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ayushdub3y/dsa-daily/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushdub3y/dsa-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
@@ -121,4 +123,8 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ayushdub3y/dsa-daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
