@@ -12,3 +12,4 @@ class Solution:
             else:
                 r-=1
         return -1
+#two pointer approach
