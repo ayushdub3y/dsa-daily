@@ -17,6 +17,7 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushdub3y/dsa-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushdub3y/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
@@ -62,6 +63,7 @@ Daily DSA pratice on leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushdub3y/dsa-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushdub3y/dsa-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ayushdub3y/dsa-daily/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushdub3y/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -131,4 +133,8 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ayushdub3y/dsa-daily/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushdub3y/dsa-daily/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
