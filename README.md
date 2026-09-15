@@ -55,6 +55,7 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushdub3y/dsa-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ayushdub3y/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ayushdub3y/dsa-daily/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
@@ -124,6 +125,7 @@ Daily DSA pratice on leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushdub3y/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -137,4 +139,8 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushdub3y/dsa-daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushdub3y/dsa-daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
