@@ -32,6 +32,7 @@ Daily DSA pratice on leetcode problems
 | [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ayushdub3y/dsa-daily/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ayushdub3y/dsa-daily/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -127,10 +128,12 @@ Daily DSA pratice on leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdub3y/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 ## Newton's Method
 |  |
 | ------- |
