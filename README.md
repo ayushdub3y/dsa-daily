@@ -23,6 +23,7 @@ Daily DSA pratice on leetcode problems
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushdub3y/dsa-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ayushdub3y/dsa-daily/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushdub3y/dsa-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushdub3y/dsa-daily/tree/master/0162-find-peak-element) |
@@ -128,11 +129,13 @@ Daily DSA pratice on leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdub3y/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 ## Newton's Method
 |  |
@@ -146,4 +149,8 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdub3y/dsa-daily/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
