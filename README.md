@@ -31,6 +31,7 @@ Daily DSA pratice on leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/ayushdub3y/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
@@ -92,6 +93,7 @@ Daily DSA pratice on leetcode problems
 | [0076-minimum-window-substring](https://github.com/ayushdub3y/dsa-daily/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushdub3y/dsa-daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ayushdub3y/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ayushdub3y/dsa-daily/tree/master/0904-fruit-into-baskets) |
@@ -130,12 +132,14 @@ Daily DSA pratice on leetcode problems
 | [0020-valid-parentheses](https://github.com/ayushdub3y/dsa-daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/ayushdub3y/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/ayushdub3y/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 ## Newton's Method
 |  |
