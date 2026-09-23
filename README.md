@@ -32,6 +32,7 @@ Daily DSA pratice on leetcode problems
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/ayushdub3y/dsa-daily/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushdub3y/dsa-daily/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushdub3y/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
@@ -133,6 +134,7 @@ Daily DSA pratice on leetcode problems
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ayushdub3y/dsa-daily/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushdub3y/dsa-daily/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -140,6 +142,7 @@ Daily DSA pratice on leetcode problems
 | [0042-trapping-rain-water](https://github.com/ayushdub3y/dsa-daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ayushdub3y/dsa-daily/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushdub3y/dsa-daily/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushdub3y/dsa-daily/tree/master/0739-daily-temperatures) |
 ## Newton's Method
 |  |
