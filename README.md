@@ -31,6 +31,7 @@ Daily DSA pratice on leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/ayushdub3y/dsa-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushdub3y/dsa-daily/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ayushdub3y/dsa-daily/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ayushdub3y/dsa-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdub3y/dsa-daily/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ Daily DSA pratice on leetcode problems
 | [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayushdub3y/dsa-daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdub3y/dsa-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/ayushdub3y/dsa-daily/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
 ## String
