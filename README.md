@@ -6,6 +6,7 @@ Daily DSA pratice on leetcode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayushdub3y/dsa-daily/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ayushdub3y/dsa-daily/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/ayushdub3y/dsa-daily/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
