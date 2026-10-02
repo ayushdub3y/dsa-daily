@@ -69,6 +69,7 @@ Daily DSA pratice on leetcode problems
 | [0392-is-subsequence](https://github.com/ayushdub3y/dsa-daily/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushdub3y/dsa-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ayushdub3y/dsa-daily/tree/master/1657-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Daily DSA pratice on leetcode problems
 | [0560-subarray-sum-equals-k](https://github.com/ayushdub3y/dsa-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayushdub3y/dsa-daily/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ayushdub3y/dsa-daily/tree/master/0904-fruit-into-baskets) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ayushdub3y/dsa-daily/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Daily DSA pratice on leetcode problems
 | ------- |
 | [0075-sort-colors](https://github.com/ayushdub3y/dsa-daily/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayushdub3y/dsa-daily/tree/master/0217-contains-duplicate) |
+| [1657-determine-if-two-strings-are-close](https://github.com/ayushdub3y/dsa-daily/tree/master/1657-determine-if-two-strings-are-close) |
 ## Database
 |  |
 | ------- |
@@ -167,4 +170,8 @@ Daily DSA pratice on leetcode problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushdub3y/dsa-daily/tree/master/0084-largest-rectangle-in-histogram) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/ayushdub3y/dsa-daily/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
